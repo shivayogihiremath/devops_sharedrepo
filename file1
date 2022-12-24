@@ -1,4 +1,8 @@
+this is the first file
 file1 changes done by SudhaBranch
+<<<<<<< HEAD
 This is the first file
 Editing this file for cherry pick demo.
+=======
+>>>>>>> SudhaBranch
 
